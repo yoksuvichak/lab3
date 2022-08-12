@@ -1,0 +1,18 @@
+body {
+    background-color: darkgrey
+}
+
+div {
+    text-align: center;
+    font-size: 36px;
+    color: brown;
+}
+
+p {
+    text-align: center;
+    color: orange;
+}
+
+a {
+    color: red
+}
